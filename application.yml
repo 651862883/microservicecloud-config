@@ -1,15 +1,2 @@
-spring: 
-  profiles: 
-    active:
-    - dev 
- 
- ---
- spring: 
-    profiles: dev
-    application:
-        name: microserviecloud-config-atguigu-dev
- ---
-spring: 
-    profiles: test
-    application:
-        name: microserviecloud-config-atguigu-test
+age:
+   18
